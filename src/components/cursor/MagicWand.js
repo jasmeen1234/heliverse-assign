@@ -1,4 +1,5 @@
-// src/MagicWand.js
+// MagicWand.js
+
 import React, { useState, useEffect } from 'react';
 import Particle from './Particle';
 
